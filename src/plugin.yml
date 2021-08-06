@@ -1,0 +1,12 @@
+name: QuickCommands
+version: 1.0
+author: BazifShah
+main: MissingToe.Main
+description: This plugin is made to make commands faster!
+
+commands:
+ Jed:
+ Jedoff:
+ Hunter:
+ Runner:
+ 
